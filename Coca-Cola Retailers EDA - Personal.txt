@@ -1,0 +1,18 @@
+##Coca-Cola Retailers EDA - Personal Project (August 2024)
+-Overview
+-This project involves analyzing monthly beverage sales for Coca-Cola across different regions and retailers. Using Power BI and Power Query, the data was cleaned, transformed, and processed to provide key financial insights.
+
+##Key Objectives
+-Analyze monthly beverage sales by region and retailer.
+-Identify which region has the highest revenue growth.
+-Provide actionable recommendations for boosting sales and optimizing inventory management.
+-Tools and Technologies
+-Power BI: For creating data visualizations and dashboards.
+-Power Query: For data cleaning and transformation.
+-DAX: To aggregate number ranges and create usable numeric values.
+##Key Insights
+-Recommended allocating more resources to regions with the highest revenue increase.
+-Suggested targeted marketing campaigns for regions with lower sales to boost overall performance.
+-Provided strategies for inventory management by recommending just-in-time inventory practices and stocking up for peak seasons.
+##Overview
+-Improved decision-making on resource allocation, marketing, and inventory management, enhancing Coca-Cola’s sales strategies

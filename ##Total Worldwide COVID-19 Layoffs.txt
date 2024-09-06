@@ -1,0 +1,17 @@
+##Total Worldwide COVID-19 Layoffs – Personal Project (July 2024)
+-**Overview
+-**This project involves a comprehensive analysis of global COVID-19 layoffs across various industries. SQL techniques were used to explore and monitor layoffs over time, and the results were visualized to provide stakeholders with key insights.
+
+##Key Objectives
+-Analyze the impact of COVID-19 layoffs on various sectors.
+-Use SQL techniques to track layoffs using CTEs, joins, and rolling totals.
+-Present findings through visualizations to enable stakeholders to understand the scale and timeline of the layoffs.
+##Tools and Technologies
+-**SQL**: For data querying and analysis using advanced techniques like CTEs and rolling totals.
+-**Data Visualization**: For presenting insights and trends over time.
+##Key Insights
+-Identified industries most affected by layoffs during the pandemic.
+-Delivered insights into the scale and progression of layoffs through detailed reports and visualizations.
+##Outcome
+-**Provided key stakeholders with valuable insights into the effects of the pandemic on employment, helping guide future employment policies and decisions.
+

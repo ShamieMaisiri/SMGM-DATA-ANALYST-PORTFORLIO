@@ -1,0 +1,18 @@
+##Boomerang Bike Company – Personal Project (August 2024)
+-Overview
+-This project focuses on analyzing Boomerang Bike Company’s sales data to understand key customer demographics and ---purchasing patterns using Excel.
+
+##Key Objectives
+-Clean and format sales data using Excel.
+-Create Pivot Tables and Charts for KPI visualization.
+-Provide data-driven recommendations for targeted marketing, product line diversification, and strategic planning.
+-Tools and Technologies
+-**Excel**: For data cleaning, conditional formatting, and building Pivot Tables and Charts.
+-Nested IF Statements: To create data ranges for improved visualization.
+##Key Insights
+-Identified age, gender, and income demographics for targeted marketing.
+-Recommended diversification of product lines based on gender preferences.
+-Suggested introducing a wider range of products to cater to different income brackets.
+##Outcome
+-The client gained valuable insights into their customer base, leading to better-targeted marketing strategies and product diversification.
+

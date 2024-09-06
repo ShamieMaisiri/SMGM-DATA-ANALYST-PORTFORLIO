@@ -1,0 +1,17 @@
+##Consulting Project: Airbnb Profitability Analysis – Personal Project (July 2024)
+-Overview
+-In this project, I used Tableau to analyze Airbnb listings and identify the most profitable neighborhoods. The analysis included descriptive and diagnostic insights, seasonal trends, and strategic recommendations to improve profitability.
+
+##Key Objectives
+-Analyze Airbnb data for occupancy rates, ADR, and RevPAR.
+-Identify the most profitable neighborhood based on historical data.
+-Provide prescriptive recommendations for peak and off-peak booking strategies.
+-Tools and Technologies
+-**Tableau**: For creating interactive dashboards and visualizations.
+-**Data Analysis**: Descriptive and diagnostic analysis techniques.
+##Key Insights
+-Properties in certain neighborhoods generated up to higher revenue during peak seasons.
+-Provided strategies to optimize booking during high-demand periods and ensure personal usage during off-peak times.
+##Outcome
+-Improved profitability of Airbnb listings through strategic booking recommendations and data-driven insights.
+
