@@ -1,0 +1,60 @@
+# Price vs Demand Business Analysis
+
+## Overview
+This project analyzes the relationship between the price of a product (golf clubs) and its demand. The main goal is to model demand using linear, power, and exponential regression models and to determine the optimal price point to maximize profits. The analysis was conducted using various statistical models to predict demand at different price points and optimize the profit for a business selling golf clubs.
+
+## Data Description
+The dataset consists of monthly prices and corresponding demand in units (in hundreds). The following fields are used in this analysis:
+
+- **Month**: A numerical identifier for the month.
+- **Price**: The price of a set of golf clubs in the respective month.
+- **Demand**: The quantity demanded in hundreds for that price in the respective month.
+
+## Models Used
+
+1. **Linear Regression (y = mx + b)**:
+   - Intercept (b): 211.31
+   - Slope (m): -0.3546
+
+2. **Power Model (y = a * x^b)**:
+   - Constant (a): 5,871,064
+   - Exponent (b): -1.908
+
+3. **Exponential Model (y = a * exp(bx))**:
+   - Constant (a): 466.51
+   - Exponent (b): -0.005
+
+Each model was applied to predict demand based on the price, and the absolute percentage error was calculated to measure the accuracy of each model.
+
+## Model Selection
+The average absolute percentage error for each model is as follows:
+- **Linear**: 10%
+- **Power**: 6%
+- **Exponential**: 7%
+
+The Power Model was chosen for further analysis as it yielded the lowest error.
+
+## Profit Optimization
+Using the Power Model, demand was predicted at different price points to determine the price that would maximize profit. The business model assumes the following:
+
+- **Unit Cost**: R250 per set of clubs.
+- **Sale Price**: Various prices from R260 to R600 in multiples of 10.
+- **Actual Demand**: 6,368 sets of clubs.
+
+The cost, revenue, and profit were calculated at different price points, and the maximum profit was found at a price of **R530**, with a profit of **R1,042,213**.
+
+## Conclusion
+The optimal price to sell the golf clubs is **R530**, which will result in a profit of **R1,042,213** based on the Power Model's demand prediction. The model predicts this price point will balance demand and price to maximize profit for the business.
+
+## Visualizations
+- **Price vs Demand**: A scatter plot of demand at various prices was created to visualize the trend and identify the relationship between price and demand.
+- **Profit vs Price**: A plot showing profit at different price points was generated to identify the optimal selling price.
+
+## Instructions for Use
+1. Review the data inputs (price and demand).
+2. Apply the chosen model (Power Model) to predict demand at different price points.
+3. Calculate profit for each price point by considering unit cost and predicted demand.
+4. Choose the price point that yields the highest profit.
+
+## Acknowledgments
+This analysis uses basic regression models and assumes constant unit costs and linear profit calculations. Variations in cost structures or market dynamics may require further refinement of the model.
